@@ -31,7 +31,7 @@ img_list = os.listdir("./ans_img")
 for img in img_list:
     if ("zip" in img):
         continue
-    elif (not os.path.isdir("./out/%s" % img)):
+    elif (not os.path.isfile("./out/%s" % img)):
         print("%s : NO_FILE" % img)
         continue
 
