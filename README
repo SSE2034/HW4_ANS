@@ -1,7 +1,17 @@
 실행명령어
 
+* 제공된 이미지는 인터넷에 공개되지 않은 개인 저작물이므로 함부로 업로드 및 배포하는 것을 금지!
+
+1. git clone 하기
 git clone https://github.com/SSE2034/HW4_ANS.git
 
+2. src 폴더에 작성한 ppm.cc 복사
+
+3. 이미지 파일 압축 해제
 python unzip.py
+
+4. 실행하기
 python run.py
+
+5. clean
 sh clean.sh
