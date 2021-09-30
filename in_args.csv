@@ -1,0 +1,19 @@
+INPUT FILE,OUTPUT PBM FILE,OUPUT PGM FILE,OUTPUT PPM FILE,ANSWER,DESC
+./ppm/input_0.ppm,./out/input_0.pbm,./out/input_0.pgm,./out/input_0.ppm,SUCCESS,
+./ppm/input_1.ppm,./out/input_1.pbm,./out/input_1.pgm,./out/input_1.ppm,SUCCESS,
+./ppm/input_10.ppm,./out/input_10.pbm,./out/input_10.pgm,./out/input_10.ppm,SUCCESS,
+./ppm/input_2.ppm,./out/input_2.pbm,./out/input_2.pgm,./out/input_2.ppm,SUCCESS,
+./ppm/input_3.ppm,./out/input_3.pbm,./out/input_3.pgm,./out/input_3.ppm,SUCCESS,
+./ppm/input_4.ppm,./out/input_4.pbm,./out/input_4.pgm,./out/input_4.ppm,SUCCESS,
+./ppm/input_5.ppm,./out/input_5.pbm,./out/input_5.pgm,./out/input_5.ppm,SUCCESS,
+./ppm/input_6.ppm,./out/input_6.pbm,./out/input_6.pgm,./out/input_6.ppm,SUCCESS,
+./ppm/input_7.ppm,./out/input_7.pbm,./out/input_7.pgm,./out/input_7.ppm,SUCCESS,
+./ppm/input_8.ppm,./out/input_8.pbm,./out/input_8.pgm,./out/input_8.ppm,SUCCESS,
+./ppm/input_9.ppm,./out/input_9.pbm,./out/input_9.pgm,./out/input_9.ppm,SUCCESS,
+./ppm/input_e1.ppm,./out/input_e1.pbm,./out/input_e1.pgm,./out/input_e1.ppm,INPUT_ERROR,PIXEL SIZE
+./ppm/input_e2.ppm,./out/input_e2.pbm,./out/input_e2.pgm,./out/input_e2.ppm,INPUT_ERROR,MAGIC NUMBER
+./ppm/input_e3.ppm,./out/input_e3.pbm,./out/input_e3.pgm,./out/input_e3.ppm,INPUT_ERROR,MAXIMUM VALUE
+./ppm/input_e4.ppm,./out/input_e4.pbm,./out/input_e4.pgm,./out/input_e4.ppm,INPUT_ERROR,PIXEL SIZE LESS
+./ppm/input_e5.ppm,./out/input_e5.pbm,./out/input_e5.pgm,./out/input_e5.ppm,INPUT_ERROR,PIXEL SIZE MORE
+./ppm/input_111.ppm,./out/input_111.pbm,./out/input_111.pgm,./out/input_111.ppm,INPUT_ERROR,INPUT OPEN FAIL
+./ppm/input_1.ppm,./zip1/input_1.pbm,./zip1/input_1.pgm,./zip1/input_1.ppm,OUTPUT_ERROR,OUTPUT OPEN FAIL

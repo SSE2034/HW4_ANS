@@ -1,0 +1,7 @@
+실행명령어
+
+git clone https://github.com/SSE2034/HW4_ANS.git
+
+python unzip.py
+python run.py
+sh clean.sh

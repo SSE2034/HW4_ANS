@@ -1,0 +1,6 @@
+ans_img/*.pbm
+ans_img/*.pgm
+ans_img/*.ppm
+ppm/*.ppm
+src/ppm.cc
+out/
