@@ -4,3 +4,4 @@ ans_img/*.ppm
 ppm/*.ppm
 src/ppm.cc
 out/
+bin/
