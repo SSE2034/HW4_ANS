@@ -1,0 +1,88 @@
+g++ -g -O2 ppm.o main.o -o ../bin/main.out
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_0.ppm ./out/input_0.pbm ./out/input_0.pgm ./out/input_0.ppm
+CORRECT ANSWER IS SUCCESS & YOUR ANSWER IS  SUCCESS
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_1.ppm ./out/input_1.pbm ./out/input_1.pgm ./out/input_1.ppm
+CORRECT ANSWER IS SUCCESS & YOUR ANSWER IS  SUCCESS
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_10.ppm ./out/input_10.pbm ./out/input_10.pgm ./out/input_10.ppm
+CORRECT ANSWER IS SUCCESS & YOUR ANSWER IS  SUCCESS
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_2.ppm ./out/input_2.pbm ./out/input_2.pgm ./out/input_2.ppm
+CORRECT ANSWER IS SUCCESS & YOUR ANSWER IS  SUCCESS
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_3.ppm ./out/input_3.pbm ./out/input_3.pgm ./out/input_3.ppm
+CORRECT ANSWER IS SUCCESS & YOUR ANSWER IS  SUCCESS
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_4.ppm ./out/input_4.pbm ./out/input_4.pgm ./out/input_4.ppm
+CORRECT ANSWER IS SUCCESS & YOUR ANSWER IS  SUCCESS
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_5.ppm ./out/input_5.pbm ./out/input_5.pgm ./out/input_5.ppm
+CORRECT ANSWER IS SUCCESS & YOUR ANSWER IS  SUCCESS
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_6.ppm ./out/input_6.pbm ./out/input_6.pgm ./out/input_6.ppm
+CORRECT ANSWER IS SUCCESS & YOUR ANSWER IS  SUCCESS
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_7.ppm ./out/input_7.pbm ./out/input_7.pgm ./out/input_7.ppm
+CORRECT ANSWER IS SUCCESS & YOUR ANSWER IS  SUCCESS
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_8.ppm ./out/input_8.pbm ./out/input_8.pgm ./out/input_8.ppm
+CORRECT ANSWER IS SUCCESS & YOUR ANSWER IS  SUCCESS
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_9.ppm ./out/input_9.pbm ./out/input_9.pgm ./out/input_9.ppm
+CORRECT ANSWER IS SUCCESS & YOUR ANSWER IS  SUCCESS
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_e1.ppm ./out/input_e1.pbm ./out/input_e1.pgm ./out/input_e1.ppm
+CORRECT ANSWER IS INPUT_ERROR & YOUR ANSWER IS  INPUT_ERROR
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_e2.ppm ./out/input_e2.pbm ./out/input_e2.pgm ./out/input_e2.ppm
+CORRECT ANSWER IS INPUT_ERROR & YOUR ANSWER IS  INPUT_ERROR
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_e3.ppm ./out/input_e3.pbm ./out/input_e3.pgm ./out/input_e3.ppm
+CORRECT ANSWER IS INPUT_ERROR & YOUR ANSWER IS  INPUT_ERROR
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_e4.ppm ./out/input_e4.pbm ./out/input_e4.pgm ./out/input_e4.ppm
+CORRECT ANSWER IS INPUT_ERROR & YOUR ANSWER IS  INPUT_ERROR
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_e5.ppm ./out/input_e5.pbm ./out/input_e5.pgm ./out/input_e5.ppm
+CORRECT ANSWER IS INPUT_ERROR & YOUR ANSWER IS  INPUT_ERROR
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_111.ppm ./out/input_111.pbm ./out/input_111.pgm ./out/input_111.ppm
+CORRECT ANSWER IS INPUT_ERROR & YOUR ANSWER IS  INPUT_ERROR
+
+COMAND : timeout -s 9 5m ./bin/main.out ./ppm/input_1.ppm ./zip1/input_1.pbm ./zip1/input_1.pgm ./zip1/input_1.ppm
+CORRECT ANSWER IS OUTPUT_ERROR & YOUR ANSWER IS  OUTPUT_ERROR
+
+input_8.pgm : 1.0000
+input_0.ppm : 1.0000
+input_5.pgm : 1.0000
+input_0.pbm : 1.0000
+input_1.ppm : 1.0000
+input_7.pbm : 1.0000
+input_6.pgm : 1.0000
+input_7.ppm : 1.0000
+input_1.pbm : 1.0000
+input_3.ppm : 1.0000
+input_4.pgm : 1.0000
+input_10.pbm : 1.0000
+input_10.pgm : 1.0000
+input_2.pgm : 1.0000
+input_3.pbm : 1.0000
+input_0.pgm : 1.0000
+input_6.ppm : 1.0000
+input_10.ppm : 1.0000
+input_4.ppm : 1.0000
+input_4.pbm : 1.0000
+input_6.pbm : 1.0000
+input_3.pgm : 1.0000
+input_2.pbm : 1.0000
+input_9.ppm : 1.0000
+input_8.pbm : 1.0000
+input_9.pbm : 1.0000
+input_2.ppm : 1.0000
+input_9.pgm : 1.0000
+input_1.pgm : 1.0000
+input_7.pgm : 1.0000
+input_8.ppm : 1.0000
+input_5.ppm : 1.0000
+input_5.pbm : 1.0000
