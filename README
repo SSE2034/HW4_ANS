@@ -1,6 +1,7 @@
 실행명령어
 
 * 제공된 이미지는 인터넷에 공개되지 않은 개인 저작물이므로 함부로 업로드 및 배포하는 것을 금지!
+* 만점을 받은 학생의 코드는 answer_example.txt 파일과 같은 내용이 출력 될 것임.
 
 1. git clone 하기
 git clone https://github.com/SSE2034/HW4_ANS.git
